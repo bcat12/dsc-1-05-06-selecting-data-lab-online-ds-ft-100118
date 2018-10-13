@@ -5,3 +5,5 @@ CREATE TABLE planets (
   num_of_moons integer,
   mass real
 );
+
+
